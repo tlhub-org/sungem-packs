@@ -1,0 +1,295 @@
+{
+  "hostApi": 1,
+  "packs": [
+    {
+      "id": "vue",
+      "name": "Vue",
+      "abbr": "VUE",
+      "color": "#9bd48a",
+      "description": "Realce de sintaxe para Single File Components do Vue (template, script e style).",
+      "files": [
+        ".vue"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "0.1.3",
+      "hostApi": 1,
+      "file": "vue-0.1.3.js",
+      "sha256": "a50ce77dd6006e23d08fb2a3bcfbb359cd5f7ed8ea016568f23c4312bd22fcdc",
+      "size": 4469
+    },
+    {
+      "id": "markdown",
+      "name": "Markdown",
+      "abbr": "MD",
+      "color": "#6cb6ff",
+      "description": "Realce de sintaxe para Markdown, com realce dos blocos de código nas linguagens ativas.",
+      "files": [
+        ".md",
+        ".markdown"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.5.2",
+      "hostApi": 1,
+      "file": "markdown-6.5.2.js",
+      "sha256": "cabdeda03929aef4e2aaa37a67f1c425d71b1cc9bb880916a9bb2803c3e65868",
+      "size": 46667
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "abbr": "PY",
+      "color": "#e8c26b",
+      "description": "Realce de sintaxe e snippets para Python.",
+      "files": [
+        ".py",
+        ".pyi",
+        ".pyw"
+      ],
+      "features": [
+        "highlight",
+        "snippets"
+      ],
+      "version": "6.2.1",
+      "hostApi": 1,
+      "file": "python-6.2.1.js",
+      "sha256": "d79c2e59a782bcf70a747d9432c008e5c617c0a8f2ab563d516d588a5f6c118e",
+      "size": 46519
+    },
+    {
+      "id": "scss",
+      "name": "SCSS",
+      "abbr": "SCS",
+      "color": "#f28b82",
+      "description": "Realce de sintaxe para Sass na sintaxe SCSS.",
+      "files": [
+        ".scss"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.0.2",
+      "hostApi": 1,
+      "file": "scss-6.0.2.js",
+      "sha256": "347fdfebef402d42cd6f67729f7644a9415528a4ccce547658c9e9416078088b",
+      "size": 24236
+    },
+    {
+      "id": "less",
+      "name": "Less",
+      "abbr": "LSS",
+      "color": "#6cb6ff",
+      "description": "Realce de sintaxe para folhas de estilo Less.",
+      "files": [
+        ".less"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.0.2",
+      "hostApi": 1,
+      "file": "less-6.0.2.js",
+      "sha256": "630674f6e5c310c0b5b6aa2bb4a064f9fa47f8ae390a2c0d2d412378e3806a99",
+      "size": 17330
+    },
+    {
+      "id": "yaml",
+      "name": "YAML",
+      "abbr": "YML",
+      "color": "#f28b82",
+      "description": "Realce de sintaxe para arquivos YAML (docker-compose, CI, configurações).",
+      "files": [
+        ".yml",
+        ".yaml"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.1.3",
+      "hostApi": 1,
+      "file": "yaml-6.1.3.js",
+      "sha256": "e77443bb6fbcd0597369b3e1ce250644858b693f447f12ec76d01def9a928071",
+      "size": 13559
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "abbr": "SQL",
+      "color": "#6cb6ff",
+      "description": "Realce de sintaxe para SQL.",
+      "files": [
+        ".sql"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.10.0",
+      "hostApi": 1,
+      "file": "sql-6.10.0.js",
+      "sha256": "12edd9baeee423618999dc6a2f055e8c601710d34f8575da0d7f3ce6c64dd770",
+      "size": 33150
+    },
+    {
+      "id": "xml",
+      "name": "XML",
+      "abbr": "XML",
+      "color": "#e8a86b",
+      "description": "Realce de sintaxe para XML e SVG.",
+      "files": [
+        ".xml",
+        ".svg",
+        ".xsd",
+        ".xsl"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.1.0",
+      "hostApi": 1,
+      "file": "xml-6.1.0.js",
+      "sha256": "5ca3b780564584314c50855226ab1c3f694b04020ccc8a789f8184a216064dd7",
+      "size": 15724
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "abbr": "JV",
+      "color": "#e8a86b",
+      "description": "Realce de sintaxe para Java.",
+      "files": [
+        ".java"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.0.2",
+      "hostApi": 1,
+      "file": "java-6.0.2.js",
+      "sha256": "96bde9b0ade04a8bb43a722237cc48a9e546668e29380e99295d1750ea365009",
+      "size": 48765
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "abbr": "GO",
+      "color": "#6cb6ff",
+      "description": "Realce de sintaxe e snippets para Go.",
+      "files": [
+        ".go"
+      ],
+      "features": [
+        "highlight",
+        "snippets"
+      ],
+      "version": "6.0.1",
+      "hostApi": 1,
+      "file": "go-6.0.1.js",
+      "sha256": "8cfe35db2363cacce60731f6d7fb7606c5bc3c341fabb51a64d4953fb8da94c1",
+      "size": 32297
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "abbr": "RS",
+      "color": "#e8a86b",
+      "description": "Realce de sintaxe para Rust.",
+      "files": [
+        ".rs"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.0.2",
+      "hostApi": 1,
+      "file": "rust-6.0.2.js",
+      "sha256": "f0900447ed6cac90ea7b733ed3fac1d5cb4aafe3a67cb85bc2d72f3b58419fb9",
+      "size": 84817
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "abbr": "SH",
+      "color": "#9bd48a",
+      "description": "Realce de sintaxe para scripts Bash e sh.",
+      "files": [
+        ".sh",
+        ".bash",
+        ".zsh",
+        ".bashrc",
+        ".zshrc",
+        ".profile"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.5.5",
+      "hostApi": 1,
+      "file": "shell-6.5.5.js",
+      "sha256": "2f24be692c0e8c3fe1ff5a3ea84b240c575b81b06536cda37c9aa84a04a806c5",
+      "size": 3271
+    },
+    {
+      "id": "dockerfile",
+      "name": "Dockerfile",
+      "abbr": "DKR",
+      "color": "#6cb6ff",
+      "description": "Realce de sintaxe para Dockerfiles.",
+      "files": [
+        "Dockerfile",
+        "Containerfile",
+        ".dockerfile"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.5.5",
+      "hostApi": 1,
+      "file": "dockerfile-6.5.5.js",
+      "sha256": "2400368fc24c33434b52199edf505389e990eb2a765d3ffb3fa7ce4c08ac646d",
+      "size": 4870
+    },
+    {
+      "id": "ini",
+      "name": "INI / .env",
+      "abbr": "INI",
+      "color": "#a3a9b3",
+      "description": "Realce de sintaxe para arquivos INI, .env e configurações parecidas.",
+      "files": [
+        ".ini",
+        ".env",
+        ".cfg",
+        ".conf",
+        ".editorconfig"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.5.5",
+      "hostApi": 1,
+      "file": "ini-6.5.5.js",
+      "sha256": "85244503010a61175a8783b506d34dd9c81e33d32b66514493552747a3322a34",
+      "size": 1362
+    },
+    {
+      "id": "toml",
+      "name": "TOML",
+      "abbr": "TML",
+      "color": "#e8a86b",
+      "description": "Realce de sintaxe para TOML (Cargo.toml, pyproject.toml).",
+      "files": [
+        ".toml"
+      ],
+      "features": [
+        "highlight"
+      ],
+      "version": "6.5.5",
+      "hostApi": 1,
+      "file": "toml-6.5.5.js",
+      "sha256": "c3fae9325b07f926d3c36e8687f8167694e517a3e02b5fcc3da839a0b2802bfd",
+      "size": 1839
+    }
+  ]
+}
