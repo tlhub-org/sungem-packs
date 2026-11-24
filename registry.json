@@ -256,13 +256,17 @@
       "name": "INI / .env",
       "abbr": "INI",
       "color": "#a3a9b3",
-      "description": "Realce de sintaxe para arquivos INI, .env e configurações parecidas.",
+      "description": "Realce de sintaxe para arquivos INI, .env (e .env.*), .npmrc e configurações parecidas.",
       "files": [
         ".ini",
         ".env",
+        ".env.*",
         ".cfg",
         ".conf",
-        ".editorconfig"
+        ".editorconfig",
+        ".npmrc",
+        "npmrc",
+        ".yarnrc"
       ],
       "features": [
         "highlight"
